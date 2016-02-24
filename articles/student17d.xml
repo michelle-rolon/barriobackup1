@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 17d</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>El Parque de México</title>
+            <author>Michelle Rolon</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,23 +30,23 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>Placed in the entrance of Lincoln Park, El Parque de México is a sculpture garden that encompasses statues and busts of iconic revolutionary figures of Mexican and Mexican American culture. The reason for the creation of this park was to portray the Mexican presence of Lincoln Heights and the political ties between Mexico and the United States (Becerra). Statues of icons such as Emperor Cuauhtemoc, Dolores Huerta, and Emiliano Zapata can be seen with plaques that offer historically accounts of the persona as well as their contributions (Brown Pride). Ultimately in 1996, the Department of Cultural Affairs of the City of Los Angeles and Urban Art Inc. had agreed upon the preservation and restoration of El Parque de México (Urban Art Inc). In present day, sponsors use the park to hold festivities of cultural relevance that celebrate Mexican identity.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Michelle Rolon">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Michelle Rolon">El Parque de México</placeName>
+            <geo>-118.20624987119447 34.06561131156237</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>El Parque de México is a sculpture garden that encompasses iconic revolutionary figures of Mexican and Mexican American culture.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>"El Parque De México." <i>Congressman Xavier Becerra : California's 34th Congressional District</i>. Dems.Gov, n.d. Web. 20 Feb. 2016.</bibl>
+               <bibl>Cultural Affairs Department of the City of Los Angeles and Save Outdoor Sculpture. "Lincoln Park (El Parque De Mexico); Statues and Sculptures." <i>Public Art In LA</i>. Urban Art Inc., n.d. Web. 19 Feb. 2016.</bibl>
+               <bibl>"Sculptures in Lincoln Park/El Parque De Mexico." <i>Brown Pride</i>. Brown Pride, n.d. Web. 19 Feb. 2016.</bibl>
             </listBibl>
          </div>
          
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Michelle Rolon, February 15. 2016, Courtesey of Michelle Rolon</note>
                <figDesc></figDesc>
             </figure>
             
