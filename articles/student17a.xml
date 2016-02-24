@@ -30,23 +30,23 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>Classified as one of the first suburbs to exist in the outskirts of the Los Angeles area, Lincoln Heights is a traditional region that holds notable and conserved history of its beginning and current identification as a suburb. Lincoln Heights represented the ideal suburban utopia of the early eighteenth century Angeleno with homes that were in traditional Victorian architecture, wide and open spaces for parks and lakes, and various leisure activities located through out the neighborhood. Through out the years this community has continued forth as a suburb, but has been constantly reshaped by various groups that include through Chican@ and Latin@ urbanism. It is evident to see the repetitive historical cycle of rotating cultural communities that start to live in suburbs closer to the city while previous residents take flight to other areas. Overall, racial and cultural factors continue to compile and keep Lincoln Heights alive. </p>
+            <p>Classified as one of the first suburbs to exist in the outskirts of the Los Angeles area, Lincoln Heights holds notable and conserved history of its beginning and current identification as a suburb. Lincoln Heights represented the ideal suburban utopia of the early eighteenth century Angeleno. It has traditional Victorian architecture, wide open spaces for parks and lakes, and leisure activities located in the neighborhood. Through out the years this community has continued forth as a suburb, but it has been reshaped by various groups, including Chican@ and Latin@ urbanism. Chican@ and Latin@ presence has brought forth major community change with the outbreak of the Chican@ Movement during the 1970’s. Iconic symbols of relevance from the time period can be noticed through the facets of the arts and education. Overall, racial and cultural factors continue to compile and keep Lincoln Heights alive.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Michelle Rolon">Michelle Rolon Lincoln Heights</placeName>
-            <geo>-118.21150929999999 34.0739389</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Lincoln Heights is a traditional area that holds notable preserved history of its beginning and present identification as a suburb.</p>
+            <placeName type="Michelle Rolon">Lincoln Heights</placeName>
+            <geo>-118.21150929999999 34.07393890420044</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Lincoln Heights is a historic suburb that holds notable preserved history of the various immigrant communities that have shaped its present existence.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>Masters, Nathan. "What's in a Name? The Origins of Lincoln Heights' Ela Park." KCET. KCET, 	23 May 2014. Web. 22 Jan. 2016.</bibl>
+               <bibl>Javier. "History of Lincoln Heights 90031 by Old Photos and Memories." <i>History of Lincoln 	Heights 90031 by Old Photos and Memories.</i> N.p., 1999. Web. 25 Jan. 2016.</bibl>
+               <bibl>"Historic Preservation Overlay Zones (HPOZs): Lincoln Heights." <i>Lincoln Heights</i>. 	Office of Historic Resources, Department of City Planning, n.d. Web. 23 Jan. 2016.</bibl>
             </listBibl>
          </div>
          
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">Map by L.A. Hotel and Travel Bureau, 1894, Courtesy of the Library of Congress and Big Map Blog, http://www.kcet.org/updaily/socal_focus/history/la-as-subject/who-moved-east-la.html</note>
+               <note type="attribution">Michelle Rolon, February 15. 2016, Courtesey of Michelle Rolon</note>
                <figDesc></figDesc>
             </figure>
             
